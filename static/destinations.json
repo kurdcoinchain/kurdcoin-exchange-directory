@@ -1,0 +1,23 @@
+[
+    {
+        "id": "GA5XIGA5C7QTPTWXQHY6MCJRMTRZDOSHR6EFIBNDQTCQHG262N4GGKTM",
+        "data": {
+            "name": "Kraken",
+            "requiredMemoType": "MEMO_ID"
+        }
+    },
+    {
+        "id": "GB6YPGW5JFMMP2QB2USQ33EUWTXVL4ZT5ITUNCY3YKVWOJPP57CANOF3",
+        "data": {
+            "name": "Bittrex",
+            "requiredMemoType": "MEMO_TEXT"
+        }
+    },
+    {
+        "id": "GCO2IP3MJNUOKS4PUDI4C7LGGMQDJGXG3COYX3WSB4HHNAHKYV5YL3VC",
+        "data": {
+            "name": "Binance",
+            "requiredMemoType": "MEMO_ID"
+        }
+    }
+]

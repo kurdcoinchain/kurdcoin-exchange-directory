@@ -1,0 +1,20 @@
+{
+  "name": "kurdexchange-directory",
+  "version": "1.0.0",
+  "description": "The directory as used in KurdCoinExchange",
+  "main": "directory.js",
+  "scripts": {
+    "commit": "commit.sh"
+  },
+  "keywords": [
+    "kurdcoin",
+    "kurdexchange",
+    "kurdexchange-directory"
+  ],
+  "author": "KurdCoin",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/bewarhizirvan/kurdexchange-directory/issues"
+  },
+  "homepage": "https://github.com/bewarhizirvan/kurdexchange-directory/"
+}

@@ -1,0 +1,83 @@
+[
+    {
+        "domain": "kurdwallet.digital",
+        "website": "https://kurdwallet.digital",
+        "logo": "kurdwallet.digital",
+        "color": "#1D344F",
+        "displayName": "KurdWallet",
+        "assets": [
+            {
+                "code": "IQD",
+                "issuer": "GCNSEZUWCMPCBJKJZGDKUTTVYTBGT2JAENGYHLDOJ7IOU35AFSZKR4Z7",
+                "type": "token",
+                "isCounterSelling": "true",
+                "withdraw": true,
+                "deposit": true
+            },
+            {
+                "code": "USD",
+                "issuer": "GCNSEZUWCMPCBJKJZGDKUTTVYTBGT2JAENGYHLDOJ7IOU35AFSZKR4Z7",
+                "type": "token",
+                "isCounterSelling": "true",
+                "withdraw": true,
+                "deposit": true
+            },
+            {
+                "code": "EUR",
+                "issuer": "GCNSEZUWCMPCBJKJZGDKUTTVYTBGT2JAENGYHLDOJ7IOU35AFSZKR4Z7",
+                "type": "token",
+                "isCounterSelling": "true",
+                "withdraw": true,
+                "deposit": true
+            },
+            {
+                "code": "GBP",
+                "issuer": "GCNSEZUWCMPCBJKJZGDKUTTVYTBGT2JAENGYHLDOJ7IOU35AFSZKR4Z7",
+                "type": "token",
+                "isCounterSelling": "true",
+                "withdraw": true,
+                "deposit": true
+            },
+            {
+                "code": "TRY",
+                "issuer": "GCNSEZUWCMPCBJKJZGDKUTTVYTBGT2JAENGYHLDOJ7IOU35AFSZKR4Z7",
+                "type": "token",
+                "isCounterSelling": "true",
+                "withdraw": true,
+                "deposit": true
+            },
+            {
+                "code": "IRR",
+                "issuer": "GCNSEZUWCMPCBJKJZGDKUTTVYTBGT2JAENGYHLDOJ7IOU35AFSZKR4Z7",
+                "type": "token",
+                "isCounterSelling": "true",
+                "withdraw": true,
+                "deposit": true
+            },
+            {
+                "code": "SYP",
+                "issuer": "GCNSEZUWCMPCBJKJZGDKUTTVYTBGT2JAENGYHLDOJ7IOU35AFSZKR4Z7",
+                "type": "token",
+                "isCounterSelling": "true",
+                "withdraw": true,
+                "deposit": true
+            }
+        ]
+    },
+    {
+        "domain": "firotin.krd",
+        "website": "https://firotin.krd",
+        "logo": "firotin.krd",
+        "color": "#b59a63",
+        "displayName": "Firotin",
+        "assets": [
+            {
+                "code": "FIROTIN",
+                "issuer": "GCNXYTWUIAYMBNAO55PP72GJJXGUVLMXXMTSYAPNJJRYGXUCDKE2OCAZ",
+                "type": "token",
+                "customTransferDomain": "firotin.krd",
+                "customTransferSupport": "support@firotin.krd"
+            }
+        ]
+    }
+]
