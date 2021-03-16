@@ -1,6 +1,6 @@
 {
   "name": "kurdcoin-exchange-directory",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The directory as used in KurdCoin-Exchange",
   "main": "directory.js",
   "scripts": {
